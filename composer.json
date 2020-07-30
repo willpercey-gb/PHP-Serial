@@ -1,7 +1,6 @@
 {
     "name": "uwebpro/php-serial",
     "description": "Multi-platform serial port access convenience class",
-    "license": "GNU GPLv2",
     "minimum-stability": "stable",
     "autoload": {
         "classmap": ["src/"]
